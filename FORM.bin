@@ -1,0 +1,42 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://7khjjB2nRuU5hlx:kHjFpNhJZT0XY8Q@localhost:10529/storage/emulated/0/CV%20.html
+Subject: FORM
+Date: Sat, 11 Oct 2025 17:40:09 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PQNqtt59dFfkI0Vy0odWWNZHVvlKDaesUv6INInUsN----"
+
+
+------MultipartBoundary--PQNqtt59dFfkI0Vy0odWWNZHVvlKDaesUv6INInUsN----
+Content-Type: text/html
+Content-ID: <frame-606AB84391C3772B0627C547DF755BFC@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://7khjjB2nRuU5hlx:kHjFpNhJZT0XY8Q@localhost:10529/storage/emulated/0/CV%20.html
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<title> FORM </title> 
+</head> 
+<body> 
+<h1 align="center"><u> Create Account </u></h1> 
+<form> 
+<fieldset> 
+<legend> Details for account</legend> 
+<lable> First Name  
+<input type="text" placeholder="Enter your first name" required=""> <br> <br> 
+<lable> Last Name  
+<input type="text" placeholder="Enter your last name" required=""> <br> <br> 
+<lable> Email id  
+<input type="email" placeholder="@gmail.com" required=""> <br> <br> 
+<lable> Gender  
+<input type="radio" name="gender"> Male 
+<input type="radio" name="gender"> Female <br> <br> 
+<lable> Password  
+<input type="password" required=""> <br> <br> 
+<button>SUBMIT </button> 
+</lable></lable></lable></lable></lable></fieldset> 
+</form> 
+ 
+
+</body></html>
+------MultipartBoundary--PQNqtt59dFfkI0Vy0odWWNZHVvlKDaesUv6INInUsN------
